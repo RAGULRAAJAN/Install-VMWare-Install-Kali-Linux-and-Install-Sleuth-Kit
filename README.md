@@ -53,4 +53,4 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 
 
 ## RESULT:
-The setup and installation of VMware, Kali Linux, and Sleuth Kit was completed successfully.
+The setup and installation of VMware, Kali Linux, and Sleuth Kit was completed successfully..
